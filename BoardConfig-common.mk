@@ -269,3 +269,5 @@ SYSTEM_EXT_PUBLIC_SEPOLICY_DIRS += \
 
 # Protected VM firmware
 BOARD_PVMFWIMAGE_PARTITION_SIZE := 0x00100000
+
+include device/google/laguna/BoardConfigEvolution.mk
