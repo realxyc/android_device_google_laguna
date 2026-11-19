@@ -667,7 +667,7 @@
         <item>/system/framework/framework.jar</item>
         <item>/system/framework/services.jar</item>
         <item>/system/bin/surfaceflinger</item>
-        <item>/system_ext/priv-app/SystemUI/SystemUI.apk</item>
+        <item>/system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk</item>
     </string-array>
 
     <!-- Enable Zram writeback feature to allow unused pages in zram be written to flash. -->
